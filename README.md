@@ -6,3 +6,5 @@ this is test for a freshman
 software tool: 1) Rhino 6 + GH; 2) Revit
 
 Contents: design for BIPV
+
+Date of start: 2021-01-01
